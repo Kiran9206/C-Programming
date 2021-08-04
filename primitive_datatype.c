@@ -25,6 +25,7 @@ int main(){
 
 
     // character occupies 1 bytes memory(values between 0 to 255 in case unsigned char and between -128 to 217 in case singed char)
+    // ASCII(American Standard Code for Information Interchange)A-Z:65-90,a-z:97-122,0-9:48-57    
     char alpha = 'A';
     printf("The value of alpha is = %c\n",alpha);
     
